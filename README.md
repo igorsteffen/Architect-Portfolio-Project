@@ -1,5 +1,9 @@
 # LaSalle-College-Web-Dev-Final-Project
 
+[Architect Portfolio WebSite](https://luisafritzke.com/)
+
+<img loading="wordpress" src="[https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png)" width="60" height="60"/> <img loading="hostgator" src="[https://miro.medium.com/v2/resize:fit:1400/0*pfnMxVaNmlH0uz_t.png](https://i.pcmag.com/imagery/reviews/04sFMHGyy0ZbyaADjRPJWKS-13..v1582648292.png)" width="60" height="60"/> 
+
 Project Title: "Portfolio Website for a Creative Professional"
 
 Project Description: Create a portfolio website for a creative professional, such as a photographer, designer, writer, or artist. The goal is to build an impressive and functional website that not only showcases the professional's work but also provides essential information about them.
